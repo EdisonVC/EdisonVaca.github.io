@@ -1,6 +1,6 @@
 ## Uno de los procesadores más potentes
 
-[Core i7](https://i.blogs.es/d211da/new_core_i7/450_1000.jpg)
+[](https://i.blogs.es/d211da/new_core_i7/450_1000.jpg)
 
 
 En esta página vamos a explicar como un Procesador en ese caso el Core i7 de Intel cambió totalmente la visión del planeta y de la tecnología micro.

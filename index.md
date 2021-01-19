@@ -1,6 +1,6 @@
 ## Uno de los procesadores más potentes
 
-[](https://images-na.ssl-images-amazon.com/images/I/717j%2Bx%2BsAFL._AC_SX466_.jpg)
+[](https://5.imimg.com/data5/KE/ME/MY-12042782/intel-core-processor-500x500.jpg)
 
 En esta página vamos a explicar como un Procesador en ese caso el Core i7 de Intel cambió totalmente la visión del planeta y de la tecnología micro.
 
@@ -13,13 +13,13 @@ El procesador Core i7 es la nueva gama de microprocesadores de Intel. ... Intel 
 
 ```markdown
 
-## Ergonomía
-## Eficacía
-## Independencia
-## Fluidez
-## Más margen para hacer overclock
-## Frecuencias de trabajo más elevadas
-## Menor dependencia de la frecuencia de la memoria RAM.
+1.**Ergonomía**
+2. **Eficacía**
+3. **Independencia**
+4. **Fluidez**
+5. **Más margen para hacer overclock**
+6. **Frecuencias de trabajo más elevadas**
+7. **Menor dependencia de la frecuencia de la memoria RAM.**
 
 ```
 

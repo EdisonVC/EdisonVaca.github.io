@@ -13,13 +13,13 @@ El procesador Core i7 es la nueva gama de microprocesadores de Intel. ... Intel 
 
 ```markdown
 
-1. **Ergonomía**
-2. **Eficacía**
-3. **Independencia**
-4. **Fluidez**
-5. **Más margen para hacer overclock**
-6. **Frecuencias de trabajo más elevadas**
-7. **Menor dependencia de la frecuencia de la memoria RAM.**
+1. Ergonomía.
+2. Eficacía.
+3. Independencia.
+4. Fluidez.
+5. Más margen para hacer overclock.
+6. Frecuencias de trabajo más elevadas.
+7. Menor dependencia de la frecuencia de la memoria RAM.
 
 ```
 

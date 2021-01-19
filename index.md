@@ -1,8 +1,8 @@
 ## Uno de los procesadores más potentes
 
-![](https://img.pccomponentes.com/articles/21/214289/i7.jpg)
+[](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.com%2FIntel-i7-10700K-Processor-Unlocked-BX8070110700K%2Fdp%2FB086ML4XSB&psig=AOvVaw2cHEtMxtvivrgyxsCtUxfu&ust=1611177348785000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMiavL71qO4CFQAAAAAdAAAAABAG)
 
-Pudes ver mi[editor de GitHub](https://github.com/EdisonVC/EdisonVaca.github.io/edit/gh-pages/index.md)  
+En esta página vamos a explicar como un Procesador en ese caso el Core i7 de Intel cambió totalmente la visión del planeta y de la tecnología micro.
 
 
 ### Markdown

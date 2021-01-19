@@ -34,3 +34,4 @@ La respuesta es, depende de las circunstancias y del uso que le vayas a dar al P
 
 
 Si por el contrario eres gamer y no te importa tener unos 5 o 6 FPS menos te recomendamos por supuesto un procesador i5 de 4 o 6 núcleos. El precio es de incluso 150 euros menos, que nos podrá servir para comprar una tarjeta gráfica más potentes u otra cosa que necesitemos. Y si por supuesto no vamos a jugar y vamos a destinar un PC a uso multimedia, recomendaremos de largo un Core i3 con gráficos UHD integrados.
+

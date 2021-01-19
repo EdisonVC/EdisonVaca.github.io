@@ -5,16 +5,19 @@
 En esta página vamos a explicar como un Procesador en ese caso el Core i7 de Intel cambió totalmente la visión del planeta y de la tecnología micro.
 
 
-### Markdown
+### ¿Qué es el procesador Core i7?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+El procesador Core i7 es la nueva gama de microprocesadores de Intel. ... Intel Core i7 es el nombre oficial y definitivo. Se trata de un conjunto de microprocesadores con arquitectura de x86 de 64 bits, y por ahora todo lo que hay en el mercado es de cuatro núcleos, quad-core.
+
+**Lo que nos ofrece varias cosas:**
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## Ergonomía
+## Eficacía
+## Independencia
+## Fluidez
 
 - Bulleted
 - List

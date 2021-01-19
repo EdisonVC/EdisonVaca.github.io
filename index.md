@@ -1,8 +1,9 @@
-## Bienvenidos a mi página
+## Uno de los procesadores más potentes
 
-You can use the [editor on GitHub](https://github.com/EdisonVC/EdisonVaca.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![](https://img.pccomponentes.com/articles/21/214289/i7.jpg)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Pudes ver mi[editor de GitHub](https://github.com/EdisonVC/EdisonVaca.github.io/edit/gh-pages/index.md)  
+
 
 ### Markdown
 

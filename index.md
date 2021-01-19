@@ -2,6 +2,7 @@
 
 [](https://5.imimg.com/data5/KE/ME/MY-12042782/intel-core-processor-500x500.jpg)
 
+
 En esta página vamos a explicar como un Procesador en ese caso el Core i7 de Intel cambió totalmente la visión del planeta y de la tecnología micro.
 
 
